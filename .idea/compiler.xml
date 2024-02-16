@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="org.eclipse.jdt.annotation (1)" />
+        <module name="org.eclipse.jdt.annotation (2)" />
+        <module name="org.eclipse.jdt.apt.core" />
+        <module name="org.eclipse.jdt.apt.pluggable.core" />
+        <module name="org.eclipse.jdt.apt.pluggable.tests" />
+        <module name="org.eclipse.jdt.apt.tests" />
+        <module name="org.eclipse.jdt.apt.ui" />
+        <module name="org.eclipse.jdt.compiler.apt" />
+        <module name="org.eclipse.jdt.compiler.apt.tests" />
+        <module name="org.eclipse.jdt.compiler.tool" />
+        <module name="org.eclipse.jdt.compiler.tool.tests" />
+        <module name="org.eclipse.jdt.core" />
+        <module name="org.eclipse.jdt.core.formatterapp" />
+        <module name="org.eclipse.jdt.core.tests.builder" />
+        <module name="org.eclipse.jdt.core.tests.compiler" />
+        <module name="org.eclipse.jdt.core.tests.model" />
+        <module name="org.eclipse.jdt.core.tests.performance" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eclipse.jdt.core" target="1.5" />
+      <module name="org.eclipse.jdt.annotation (1)" target="1.5" />
+      <module name="org.eclipse.jdt.annotation (2)" target="1.5" />
+      <module name="org.eclipse.jdt.apt.core" target="1.5" />
+      <module name="org.eclipse.jdt.apt.pluggable.core" target="1.5" />
+      <module name="org.eclipse.jdt.apt.pluggable.tests" target="1.5" />
+      <module name="org.eclipse.jdt.apt.tests" target="1.5" />
+      <module name="org.eclipse.jdt.apt.ui" target="1.5" />
+      <module name="org.eclipse.jdt.compiler.apt" target="1.5" />
+      <module name="org.eclipse.jdt.compiler.apt.tests" target="1.5" />
+      <module name="org.eclipse.jdt.compiler.tool" target="1.5" />
+      <module name="org.eclipse.jdt.compiler.tool.tests" target="1.5" />
+      <module name="org.eclipse.jdt.core" target="1.5" />
+      <module name="org.eclipse.jdt.core.compiler.batch" target="1.5" />
+      <module name="org.eclipse.jdt.core.formatterapp" target="1.5" />
+      <module name="org.eclipse.jdt.core.tests.builder" target="1.5" />
+      <module name="org.eclipse.jdt.core.tests.compiler" target="1.5" />
+      <module name="org.eclipse.jdt.core.tests.model" target="1.5" />
+      <module name="org.eclipse.jdt.core.tests.performance" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

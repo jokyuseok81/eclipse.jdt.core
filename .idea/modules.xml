@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eclipse.jdt.core.iml" filepath="$PROJECT_DIR$/eclipse.jdt.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.annotation/org.eclipse.jdt.annotation (1).iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.annotation/org.eclipse.jdt.annotation (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.annotation_v1/org.eclipse.jdt.annotation (2).iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.annotation_v1/org.eclipse.jdt.annotation (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.apt.core/org.eclipse.jdt.apt.core.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.apt.core/org.eclipse.jdt.apt.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.apt.pluggable.core/org.eclipse.jdt.apt.pluggable.core.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.apt.pluggable.core/org.eclipse.jdt.apt.pluggable.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.apt.pluggable.tests/org.eclipse.jdt.apt.pluggable.tests.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.apt.pluggable.tests/org.eclipse.jdt.apt.pluggable.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.apt.tests/org.eclipse.jdt.apt.tests.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.apt.tests/org.eclipse.jdt.apt.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.apt.ui/org.eclipse.jdt.apt.ui.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.apt.ui/org.eclipse.jdt.apt.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.compiler.apt/org.eclipse.jdt.compiler.apt.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.compiler.apt/org.eclipse.jdt.compiler.apt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.compiler.apt.tests/org.eclipse.jdt.compiler.apt.tests.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.compiler.apt.tests/org.eclipse.jdt.compiler.apt.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.compiler.tool/org.eclipse.jdt.compiler.tool.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.compiler.tool/org.eclipse.jdt.compiler.tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.compiler.tool.tests/org.eclipse.jdt.compiler.tool.tests.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.compiler.tool.tests/org.eclipse.jdt.compiler.tool.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.core/org.eclipse.jdt.core.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.core/org.eclipse.jdt.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.core.formatterapp/org.eclipse.jdt.core.formatterapp.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.core.formatterapp/org.eclipse.jdt.core.formatterapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.core.tests.builder/org.eclipse.jdt.core.tests.builder.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.core.tests.builder/org.eclipse.jdt.core.tests.builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.core.tests.compiler/org.eclipse.jdt.core.tests.compiler.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.core.tests.compiler/org.eclipse.jdt.core.tests.compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.core.tests.model/org.eclipse.jdt.core.tests.model.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.core.tests.model/org.eclipse.jdt.core.tests.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.eclipse.jdt.core.tests.performance/org.eclipse.jdt.core.tests.performance.iml" filepath="$PROJECT_DIR$/org.eclipse.jdt.core.tests.performance/org.eclipse.jdt.core.tests.performance.iml" />
+    </modules>
+  </component>
+</project>
