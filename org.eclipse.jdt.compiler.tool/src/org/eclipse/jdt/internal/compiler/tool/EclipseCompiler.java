@@ -120,9 +120,9 @@ public class EclipseCompiler implements JavaCompiler {
 		}
 
 		String latest = CompilerOptions.getLatestVersion();
-		eclipseCompiler2.options.put(CompilerOptions.OPTION_Compliance, latest);
-		eclipseCompiler2.options.put(CompilerOptions.OPTION_Source, latest);
-		eclipseCompiler2.options.put(CompilerOptions.OPTION_TargetPlatform, latest);
+		eclipseCompiler2.options.put(CompilerOptions.OPTION_Compliance, 1.8);
+		eclipseCompiler2.options.put(CompilerOptions.OPTION_Source,  1.8);
+		eclipseCompiler2.options.put(CompilerOptions.OPTION_TargetPlatform,  1.8);
 
 		ArrayList<String> allOptions = new ArrayList<>();
 		if (options != null) {
